@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on [USAON survey](https://github.com/nsidc/usaon-vta-survey)
 - :test_tube: [ORCID](https://orcid.org/0000-0003-3160-132X)
-- 📫 How to reach me: robyn.marowitz@colorado.edu
+- 📫 How to reach me: robyn.marowitz@colorado.edu or marowitzrobyn14@gmail.com
 - 😄 Pronouns: she/her
 - :technologist: related account: [@rmarowitz](https://github.com/rmarowitz/rmarowitz)
