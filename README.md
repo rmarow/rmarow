@@ -10,4 +10,4 @@
 
 ### Other activities
 
-- Community Mainter for 📦 [conda-forge/flask-dance-feedstock](https://github.com/conda-forge/flask-dance-feedstock): Doing the OAuth dance with style using Flask, requests, and oauthlib for [Conda](https://en.wikipedia.org/wiki/Conda_(package_manager))
+- Community Maintainer for 📦 [conda-forge/flask-dance-feedstock](https://github.com/conda-forge/flask-dance-feedstock): Doing the OAuth dance with style using Flask, requests, and oauthlib for [Conda](https://en.wikipedia.org/wiki/Conda_(package_manager))
