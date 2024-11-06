@@ -1,4 +1,4 @@
-### 👋 Robyn Marowitz, Software Developer @ NSIDC
+## 👋 Robyn Marowitz, Software Developer @ NSIDC
 
 
 - 🔭 I’m currently working on NASA SCAGDRFS - [related paper](https://ntrs.nasa.gov/api/citations/20220003487/downloads/Rittger.pdf) and QGreenland
@@ -8,6 +8,6 @@
 - 📫 How to reach me: robyn.marowitz@colorado.edu or marowitzrobyn14@gmail.com
 - 😄 Pronouns: she/her
 
-# Other activities
+### Other activities
 
 - Community Mainter for 📦 [conda-forge/flask-dance-feedstock](https://github.com/conda-forge/flask-dance-feedstock): Doing the OAuth dance with style using Flask, requests, and oauthlib for [Conda](https://en.wikipedia.org/wiki/Conda_(package_manager))
